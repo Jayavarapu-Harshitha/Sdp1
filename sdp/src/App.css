@@ -1,0 +1,24 @@
+.App{
+  text-align: center;
+  
+  }
+  .App .button1
+  {
+    background:linear-gradient(rgb(192, 225, 255),rgb(108, 162, 233));
+  }
+  .App .button2
+  {
+    background:linear-gradient(rgb(192, 225, 255),rgb(108, 162, 233));
+  }
+  .App .button3
+  {
+    background:linear-gradient(rgb(192, 225, 255),rgb(108, 162, 233));
+  }
+
+.App li{
+padding:30px;
+list-style-type: none;
+margin: auto;
+  display:inline;
+  justify-content: space-around;
+}
