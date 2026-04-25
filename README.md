@@ -2,6 +2,7 @@
 
 A full-stack web application for agricultural services featuring soil testing and machine rental functionality.
 
+Fronted Hosted here --> https://elastic-kirch-9d172b.netlify.app/
 ## Project Overview
 
 This project is a comprehensive agricultural platform that connects farmers with soil testing services and machine vendors. It provides user authentication, vendor management, and image upload capabilities.
@@ -214,3 +215,4 @@ Narayanasetti Saranya
 ## Repository
 
 https://github.com/Jayavarapu-Harshitha/Sdp1
+
